@@ -56,3 +56,8 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 * first 21k
 * first marathon
 * swimming pool locker room groove
+* running gear
+* vlogging gear
+** iPhone
+** iMovie
+* my music
