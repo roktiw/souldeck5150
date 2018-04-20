@@ -45,6 +45,8 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 
 # Vlog ideas
 * why vlog - personal diary
+* vision and inspiration
+** day when Juby started 1 year ago
 * what I need to overcome in preparations
 ** start swimming on 50 meters pool
 ** 35 min on 60x25m
