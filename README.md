@@ -28,6 +28,10 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 10. Get a physiotherapist
 11. Get a proffessionalcoach
 
+## Appeal
+12. Reduce fat on belly
+13. Reduce fat on chest (manboobs)
+
 ---
 
 # Training plan
@@ -40,6 +44,14 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 * bike to work
 * bike from work
 * swimming 60x25 easy mode
+
+## Day 2
+* Running 6km @ 6:30 pace
+* rest
+
+## Day 3
+* Bikram Yoga 90 minutes
+* Running 8km @ 6:00 pace
 
 ---
 
