@@ -47,7 +47,7 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 |	TRAINING PLAN	|	SET	|	SET	|	SET1 - PYRAMYD	|	SET	|		|
 |	warmup run	|	1km E warup	|	4km E warmup	|	2km E	|	2km E warmup	|	5k E	|
 |	warmup set	|	warmup set	|	warmup set	|	warmup set	|	warmup set	|		|
-|	main training	|	Easy run (E) in your comfort zone but for long distance	|	8x 100m uphill	|	1 E	|	5km M with pace you want to have on race day	|		|
+|	main training	|	easy run	|	8x 100m uphill	|	1 E	|	5km M with pace you want to have on race day	|		|
 |		|		|		|	0,5 M	|		|		|
 |		|		|		|	0,5 E	|		|		|
 |		|		|		|	0,5 M	|		|		|
