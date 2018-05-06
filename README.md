@@ -38,7 +38,7 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 
 # Training
 
-## Training - basic training types
+## Training blocks
 |		|	LONG 🏃RUN	|	STRONG 🏃RUN	|	SPEED 🏃RUN	|	PACE / ENDURANCE 🏃RUN	|	RECOVERY 🏃RUN	|
 |	---	|	---	|	---	|	---	|	---	|	---	|
 |	Total time estimation	|	1,2h	|	45min	|	45min	|	45min	|		|
@@ -95,17 +95,168 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 # Actually trainings diary
 
 ## Day 1
-* bike to work
-* bike from work
-* swimming 60x25 easy mode
+2018.04.20 Fri
 
-## Day 2
-* Running 6km @ 6:30 pace
-* rest
+Morning Ride
+Commute
+13.00 km 0 m 1h 0m
+
+Evening Ride
+Commute
+12.00 km 0 m 0h 30m
+
+Night Swim
+0h 35m 1,500 m 2:20 /100m
+
+
+## Day 2 
+2018.04.21 Sat
+
+Morning Run
+6.38 km 6:27 /km 0h 41m
+
 
 ## Day 3
-* Bikram Yoga 90 minutes
-* Running 8km @ 6:00 pace
+2018.04.22 Sun
+
+Morning Activity - Bikram Yoga
+1h 30m
+
+Evening Run
+7.99 km 5:55 /km 0h 47m
+
+
+## Day 4
+2018.04.23 Mon
+
+Afternoon Ride
+10.00 km 0 m 0h 40m
+
+
+## Day 5
+2018.04.24 Tue 
+
+Morning Ride
+11.39 km 45 m 0h 33m
+
+Evening Ride
+6.61 km 22 m 0h 25m
+
+
+## Day 6
+2018.04.25 Wed
+
+Morning Ride
+11.10 km 0 m 0h 39m
+
+Evening Ride
+10.76 km 33 m 0h 35m
+
+
+## Day 7
+2018.04.26 Thu
+
+Morning Ride
+12.10 km 41 m 0h 39m
+
+
+## Day 8
+2018.04.27 Fri
+
+Evening Ride
+8.33 km 20 m 0h 25m
+
+
+## Day 9
+2018.04.28 Sat
+
+Evening Run
+10.07 km 6:23 /km 1h 4m
+
+
+## Day 10
+2018.04.29 Sun
+
+Afternoon Ride
+15.49 km 181 m 0h 45m
+
+Evening Run
+4.97 km 6:09 /km 0h 30m
+
+## Day 11
+2018.04.30 Mon
+
+Evening Swim
+0h 7m 300 m 2:31 /100m
+
+Evening Ride
+15.88 km 183 m 0h 41m
+
+
+## Day 12
+2018.05.01 Tue
+
+2. Półmaraton Doliną Rospudy
+Race
+21.20 km 5:45 /km 2h 2m
+
+
+## Day 13
+2018.05.02 Wed
+
+Afternoon Ride
+3.07 km 11 m 0h 9m
+
+Afternoon Swim
+0h 45m 1,500 m 3:00 /100m
+
+Afternoon Ride
+2.33 km 13 m 0h 9m
+
+
+## Day 14
+2018.05.03 Thu
+
+Morning Ride
+11.24 km 44 m 0h 33m
+
+Night Run
+6.64 km 5:27 /km 0h 36m
+
+
+## Day 15
+2018.05.04 Fri
+
+Morning Ride
+3.83 km 14 m 0h 10m
+
+Morning Swim
+0h 45m 1,000 m 4:30 /100m
+
+Lunch Ride
+7.74 km 58 m 0h 26m
+
+
+## Day 16
+2018.05.05 Sat
+
+Morning Ride
+3.83 km 14 m 0h 10m
+
+Morning Swim
+0h 45m 1,000 m 4:30 /100m
+
+Lunch Ride
+7.74 km 58 m 0h 26m
+
+Night Run
+8.30 km 5:50 /km 0h 48m
+
+
+## Day 16
+2018.05.05 Sun
+
+
 
 ---
 
