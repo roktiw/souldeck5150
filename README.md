@@ -1,5 +1,7 @@
 # souldeck5150
-Roktiw SoulDeck for 5150 series, a triathlon series organized by the World Triathlon Corporation
+Roktiw SoulDeck for 5150 series, a triathlon series organized by the World Triathlon Corporation.
+
+51,50 = 1,5 km swim + 40 km bike + 10 km run
 
 ---
 
@@ -34,7 +36,11 @@ Finish [5150](http://www.5150warsaw.com/) Warsaw with no contusion in regulatory
 
 ---
 
-# Training plan
+# Training
+
+## Training - basic training types
+
+
 
 ---
 
